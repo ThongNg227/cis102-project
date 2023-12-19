@@ -45,5 +45,6 @@ validators==0.22.0
 watchdog==3.0.0
 wheel==0.41.2
 zipp==3.17.0
-folium>=0.13,!=0.15.0
+folium
 plotly==5.3.1
+steamlit_folium
